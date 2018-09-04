@@ -6,6 +6,8 @@
 //  Copyright © 2018 TedCowan. All rights reserved.
 //
 
+//  Students: do not modify this file in any way.
+
 import XCTest
 
 class FlashlightUITestsCS3260: XCTestCase {
